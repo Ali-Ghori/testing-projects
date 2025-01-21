@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Pepperoni",
+    "size": "small",
+    "price": 19,
+    "quantity": 10,
+    "date": "2021-03-13T08:14:30Z"
+  },
+  {
+    "name": "Margarita",
+    "size": "medium",
+    "price": 15,
+    "quantity": 20,
+    "date": "2021-03-14T08:14:30Z"
+  },
+  {
+    "name": "Hawaiian",
+    "size": "large",
+    "price": 22,
+    "quantity": 30,
+    "date": "2021-03-15T08:14:30Z"
+  },
+  {
+    "name": "BBQ Chicken",
+    "size": "extra large",
+    "price": 25,
+    "quantity": 12,
+    "date": "2021-03-16T08:14:30Z"
+  },
+  {
+    "name": "Vegetarian",
+    "size": "small",
+    "price": 18,
+    "quantity": 8,
+    "date": "2021-03-17T08:14:30Z"
+  },
+  {
+    "name": "Four Cheese",
+    "size": "medium",
+    "price": 20,
+    "quantity": 15,
+    "date": "2021-03-18T08:14:30Z"
+  },
+  {
+    "name": "Meat Lover's",
+    "size": "large",
+    "price": 28,
+    "quantity": 25,
+    "date": "2021-03-19T08:14:30Z"
+  },
+  {
+    "name": "Buffalo Chicken",
+    "size": "extra large",
+    "price": 27,
+    "quantity": 18,
+    "date": "2021-03-20T08:14:30Z"
+  },
+  {
+    "name": "Supreme",
+    "size": "small",
+    "price": 21,
+    "quantity": 14,
+    "date": "2021-03-21T08:14:30Z"
+  },
+  {
+    "name": "Pesto Veggie",
+    "size": "medium",
+    "price": 17,
+    "quantity": 11,
+    "date": "2021-03-22T08:14:30Z"
+  }
+]
